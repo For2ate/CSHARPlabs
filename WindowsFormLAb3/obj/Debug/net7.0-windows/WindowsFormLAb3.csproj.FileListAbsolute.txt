@@ -1,0 +1,16 @@
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\bin\Debug\net7.0-windows\WindowsFormLAb3.exe
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\bin\Debug\net7.0-windows\WindowsFormLAb3.deps.json
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\bin\Debug\net7.0-windows\WindowsFormLAb3.runtimeconfig.json
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\bin\Debug\net7.0-windows\WindowsFormLAb3.dll
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\bin\Debug\net7.0-windows\WindowsFormLAb3.pdb
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.Form1.resources
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.csproj.GenerateResource.cache
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.AssemblyInfoInputs.cache
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.AssemblyInfo.cs
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.dll
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\refint\WindowsFormLAb3.dll
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.pdb
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\WindowsFormLAb3.genruntimeconfig.cache
+E:\Projects\C#\LabsC_SHARP\WindowsFormLAb3\obj\Debug\net7.0-windows\ref\WindowsFormLAb3.dll

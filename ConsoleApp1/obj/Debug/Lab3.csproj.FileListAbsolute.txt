@@ -1,0 +1,7 @@
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\obj\Debug\Lab3.csproj.AssemblyReference.cache
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\C#\LabsC_SHARP\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,14 @@
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.exe
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.deps.json
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.runtimeconfig.json
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.runtimeconfig.dev.json
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.dll
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\bin\Debug\netcoreapp3.1\LabsC_SHARP.pdb
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.csproj.AssemblyReference.cache
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.AssemblyInfoInputs.cache
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.AssemblyInfo.cs
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.dll
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.pdb
+E:\Projects\C#\LabsC_SHARP\LabsC_SHARP\obj\Debug\netcoreapp3.1\LabsC_SHARP.genruntimeconfig.cache
