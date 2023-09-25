@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab4_ClassRJD_ {
+    internal class Ticket {
+        
 
-    internal class Program {
-        static void Main(string[] args) {
+        public Ticket() { }
 
-        }
     }
 }

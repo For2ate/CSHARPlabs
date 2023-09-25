@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab4_ClassRJD_ {
-
-    internal class Program {
-        static void Main(string[] args) {
-
+    internal class rainFlight {
+        private TrainCar train;
+        public rainFlight() {
+            
         }
     }
 }
