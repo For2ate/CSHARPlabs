@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket>
+    <name>
+    </name>
+    <numerOfFlight>1</numerOfFlight>
+    <space>5</space>
+  </ticket>
+  <ticket>
+    <name>
+    </name>
+    <numerOfFlight>2</numerOfFlight>
+    <space>1</space>
+  </ticket>
+  <ticket>
+    <name>
+    </name>
+    <numerOfFlight>2</numerOfFlight>
+    <space>11</space>
+  </ticket>
+  <ticket>
+    <name>Ivanov</name>
+    <numerOfFlight>1</numerOfFlight>
+    <space>1</space>
+  </ticket>
+</tickets>

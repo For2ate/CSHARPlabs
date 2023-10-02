@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "ConsoleApp1\Lab3.csproj", "{383A799F-7589-4104-B99F-BF9C683D9AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormLAb3", "WindowsFormLAb3\WindowsFormLAb3.csproj", "{D70B670C-0AAB-4597-91EB-084A169A70E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsFormLAb3", "WindowsFormLAb3\WindowsFormLAb3.csproj", "{D70B670C-0AAB-4597-91EB-084A169A70E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4(ClassB4)", "lab4(ClassRJD)\lab4(ClassB4).csproj", "{01F067C1-9299-4E84-9046-FA23DC1C3BC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{D70B670C-0AAB-4597-91EB-084A169A70E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D70B670C-0AAB-4597-91EB-084A169A70E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D70B670C-0AAB-4597-91EB-084A169A70E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F067C1-9299-4E84-9046-FA23DC1C3BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F067C1-9299-4E84-9046-FA23DC1C3BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F067C1-9299-4E84-9046-FA23DC1C3BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F067C1-9299-4E84-9046-FA23DC1C3BC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

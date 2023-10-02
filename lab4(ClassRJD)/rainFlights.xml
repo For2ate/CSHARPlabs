@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<req>
+	<flight id ="1">
+		<time>10.20</time>
+		<startSity>Borisov</startSity>
+		<finalSity>Hrodna</finalSity>
+	</flight>
+	<flight id = "2">
+		<time>12.30</time>
+		<startSity>Vilnus</startSity>
+		<finalSity>Hrodna</finalSity>
+	</flight>
+	<flight id = "3">
+		<time>15.00</time>
+		<startSity>Popinsk</startSity>
+		<finalSity>Jopinsk</finalSity>
+	</flight>
+</req>

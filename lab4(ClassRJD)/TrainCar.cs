@@ -23,7 +23,7 @@ namespace lab4_ClassRJD_ {
             List<int> result = new List<int>();
             for (int i = 0; i < this.spaceInTrain.Length; i++) {
                 if (this.spaceInTrain[i] == 0) {
-                    result.Add(this.spaceInTrain[i] + 1);
+                    result.Add(i + 1);
                 }
             }
             return result.ToArray();

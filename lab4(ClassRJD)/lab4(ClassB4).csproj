@@ -7,7 +7,7 @@
     <ProjectGuid>{01F067C1-9299-4E84-9046-FA23DC1C3BC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>lab4_ClassRJD_</RootNamespace>
-    <AssemblyName>lab4_ClassRJD_</AssemblyName>
+    <AssemblyName>lab4%28ClassRJD%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,9 +45,19 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rainFlight.cs" />
+    <Compile Include="Ticket.cs" />
+    <Compile Include="TrainCar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="rainFlights.xml" />
+    <Content Include="tickets.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

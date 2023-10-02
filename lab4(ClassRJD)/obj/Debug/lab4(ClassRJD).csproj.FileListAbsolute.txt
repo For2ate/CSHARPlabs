@@ -1,0 +1,7 @@
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\bin\Debug\lab4(ClassRJD).exe.config
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\bin\Debug\lab4(ClassRJD).exe
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\bin\Debug\lab4(ClassRJD).pdb
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\obj\Debug\lab4(ClassRJD).csproj.AssemblyReference.cache
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\obj\Debug\lab4(ClassRJD).csproj.CoreCompileInputs.cache
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\obj\Debug\lab4(ClassRJD).exe
+E:\Projects\C#\LabsC_SHARP\lab4(ClassRJD)\obj\Debug\lab4(ClassRJD).pdb
