@@ -1,0 +1,27 @@
+001   mode   PREDICTED: similar to double homeobox
+R		17
+================================================
+002   search   LKSQ
+Homo sapiens (Human)    TRAF interacting protein TANK isoform b
+================================================
+003   diff   C-FLIP AMPA glutamate   6.8 kDa mitochondrial proteolipid
+amino-acids difference: 58
+================================================
+004   mode   Lsm   protein
+E		11
+================================================
+005   diff   Lsm3 protein   Drosophila melanogaster [Fragment]
+amino-acids difference: 156
+================================================
+006   search   TPRFGKTFDA
+Homo sapiens (Human)    pituitary tumor-transforming protein 1
+================================================
+007   search   AAABBB
+homo habilius    lactaza
+================================================
+008   diff   Lsm3 protein   lactaza
+amino-acids difference: 101
+================================================
+009   mode   lactaza
+A		3
+================================================

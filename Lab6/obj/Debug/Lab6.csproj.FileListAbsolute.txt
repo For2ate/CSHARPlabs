@@ -1,0 +1,7 @@
+E:\Projects\C#\LabsC_SHARP\Lab6\bin\Debug\Lab6.exe.config
+E:\Projects\C#\LabsC_SHARP\Lab6\bin\Debug\Lab6.exe
+E:\Projects\C#\LabsC_SHARP\Lab6\bin\Debug\Lab6.pdb
+E:\Projects\C#\LabsC_SHARP\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\Projects\C#\LabsC_SHARP\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LabsC_SHARP\Lab6\obj\Debug\Lab6.exe
+E:\Projects\C#\LabsC_SHARP\Lab6\obj\Debug\Lab6.pdb
